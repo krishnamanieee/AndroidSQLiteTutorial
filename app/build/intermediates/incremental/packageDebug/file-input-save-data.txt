@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Fri Nov 24 23:46:11 IST 2017
+1.base=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+1.file=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\main.xml
+4.set=DEX
+2.base=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+0.file=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+4.base=G\:\\Android Apps\\AndroidSQLiteTutorial\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
